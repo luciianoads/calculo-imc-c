@@ -13,7 +13,6 @@ O programa roda diretamente no terminal e interage com o usuário para calcular 
 Para a construção deste software em C, utilizei os seguintes conceitos de programação:
 - **Entrada e Saída de Dados (`scanf` e `printf`):** Manipulação e formatação de dados no terminal.
 - **Tipos de Dados Primitivos:** Uso de variáveis do tipo `float` para garantir a precisão das casas decimais nos cálculos de peso e altura.
-- **Estruturas Condicionais Encadeadas (`if`, `else if`, `else`):** Validação matemática precisa para enquadrar o resultado nas faixas corretas de IMC.
 - **Operadores Aritméticos e Relacionais:** Aplicação de fórmulas e comparações lógicas.
 
 ## 🚀 Como Executar o Programa
