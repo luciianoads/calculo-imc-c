@@ -24,7 +24,7 @@ Você precisará de um compilador de C instalado na sua máquina (como o `gcc`).
 ### Passo a passo no Terminal
 1. Clone este repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/calculo-imc-c.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
